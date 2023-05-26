@@ -1,0 +1,3 @@
+market-price-margin:
+  bid-percentage: 0.1
+  ask-percentage: 0.1
